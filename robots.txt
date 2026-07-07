@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /drashan.html
+
+Sitemap: https://aurapixelstudio.com/sitemap.xml
